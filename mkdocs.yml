@@ -1,0 +1,6 @@
+site_name: AgustiBM. Software Craftman
+theme:
+    name: material
+    language: es
+    palette:
+        primary: teal
